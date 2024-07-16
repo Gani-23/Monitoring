@@ -36,8 +36,8 @@ Before running this project, ensure you have the following:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/eagleeye-aws-automation.git
-    cd eagleeye-aws-automation
+    git clone https://github.com/Gani-23/Monitoring
+    cd Monitoring
     ```
 
 2. **Install required Python packages**:
