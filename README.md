@@ -8,9 +8,7 @@ This project automates the creation and management of AWS infrastructure compone
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Project Overview
 
@@ -62,5 +60,5 @@ Before running this project, ensure you have the following:
     python Eagleeye.py
     ```
 
-## Project Structure
+
 
